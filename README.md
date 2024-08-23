@@ -34,8 +34,8 @@ Before running this project, make sure you have the following installed on your 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/widget-dashboard.git
-cd widget-dashboard
+git clone https://github.com/A3ANSHU/Widget-Dashboard-Application.git
+cd Widget-Dashboard-Application
 ```
 
 ### 2. Install Dependencies
