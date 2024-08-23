@@ -61,6 +61,7 @@ npm start
 ```bash
 yarn start
 ```
+This will start the application on http://localhost:3000.
 
 ### 4. Building the Application
 To create a production build, run:
