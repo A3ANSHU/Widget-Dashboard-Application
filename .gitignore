@@ -1,0 +1,76 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+*.log
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Yarn
+.yarn/
+.yarn-cache/
+
+# NPM
+package-lock.json
+
+# MacOS
+*.swp
+*~
+
+# Windows
+*.suo
+*.ntvs_analysis.dat
+*.vs
+*.vscode
+*.db
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Jest test results
+jest-test-results.json
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Svelte build output
+.svelte/
+
+# Storybook build output
+.out/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local env files
+*.local
+
+# VS Code settings
+.settings/
