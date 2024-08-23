@@ -7,6 +7,8 @@ This project is a simple widget dashboard built using React. It allows users to 
 - Add new widgets to specific categories.
 - Remove existing widgets.
 - Persist state locally using Redux.
+- Search widgets.
+
 
 ## Technologies Used
 
